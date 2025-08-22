@@ -42,10 +42,9 @@
     8. Широковещательный IPv4-адрес этой подсети: 192.135.250.183
   
 Задание 2
-    1. с помощью ifconfig определить ip-адрес и маску подсети своего пк. 
+1) С помощью ifconfig определить ip-адрес и маску подсети своего пк. 
+<img width="781" height="363" alt="image" src="https://github.com/user-attachments/assets/5bf6bd4d-60ed-44df-ae18-b3d81a821f06" />
 
         IP-адрес: 172.20.10.3 
         маска полсети: 255.255.255.240
-
-<img width="774" height="361" alt="image" src="https://github.com/user-attachments/assets/01b2e21c-af7a-407f-824e-a3c77010f13b" />
 
